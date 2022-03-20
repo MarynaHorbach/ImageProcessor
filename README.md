@@ -7,7 +7,7 @@
 
 Готовые фильтры:
 
-1. Crop (h, w)
+1. Crop (w, h)
 2. Grayscale
 3. Negative
 4. Sharpening
