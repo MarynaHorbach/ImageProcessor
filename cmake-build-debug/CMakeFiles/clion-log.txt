@@ -1,0 +1,19 @@
+/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -DCMAKE_C_COMPILER=/bin/clang-11 -DCMAKE_CXX_COMPILER=/bin/clang++-11 -G Ninja /home/maryna/image_processor
+-- The C compiler identification is Clang 11.0.0
+-- The CXX compiler identification is Clang 11.0.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /bin/clang-11 - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /bin/clang++-11 - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:16 (add_catch):
+  Unknown CMake command "add_catch".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/maryna/image_processor/cmake-build-debug/CMakeFiles/CMakeOutput.log".
